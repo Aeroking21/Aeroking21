@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aeroking21
-- 👀 I’m currently interested in breathing
-- 🌱 I’m currently learning the alphabets along with counting
+- 👀 I’m currently interested in Netflix 
+- 🌱 I’m currently learning how to count
 - 📫 Please don't reach me
 
 <!---
