@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aeroking21
-- 👀 I’m currently interested in Netflix 
-- 🌱 I’m currently learning how to count
+- 👀 I’m currently interested in a lot of stuff
 - 📫 Please do reach me, if you have skills then you know where to find me
 
 <!---
